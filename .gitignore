@@ -1,0 +1,6 @@
+/.mypy_cache
+/.pytest_cache
+/build
+/dist
+/git_remote_updater_gui.spec
+/*_venv 

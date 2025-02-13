@@ -1,0 +1,36 @@
+# Proprietary Software License
+
+Copyright (c) [YEAR] Hadrian Hu. All rights reserved.
+
+This Proprietary Software License ("License") is a legal agreement between you ("Licensee") and Hadrian Hu ("Licensor"). By using, copying, modifying, or distributing the software ("Software"), you agree to be bound by the terms of this License.
+
+## 1. Grant of License
+Licensor hereby grants Licensee a non-exclusive, non-transferable license to use the Software for internal purposes only. Licensee is not permitted to modify, reverse-engineer, decompile, or disassemble the Software, except as expressly permitted in writing by Licensor.
+
+## 2. Restrictions
+Licensee may not:
+- Distribute, sublicense, rent, lease, or otherwise transfer the Software.
+- Remove any proprietary notices or labels on the Software.
+- Use the Software in any manner that violates any applicable law or regulation.
+
+## 3. Ownership
+The Software is licensed, not sold, to Licensee. Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights.
+
+## 4. Termination
+This License is effective until terminated. Licensor may terminate this License immediately if Licensee fails to comply with any of its terms. Upon termination, Licensee must cease all use of the Software and destroy all copies in its possession.
+
+## 5. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.
+
+## 6. Limitation of Liability
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE SOFTWARE, INCLUDING, WITHOUT LIMITATION, ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES.
+
+## 7. Governing Law
+This License shall be governed by and construed in accordance with the laws of [JURISDICTION], without regard to its conflict of laws principles.
+
+## 8. General Provisions
+- This License constitutes the entire agreement between Licensee and Licensor concerning the Software.
+- If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+- Any waiver of any provision of this License will be effective only if in writing and signed by Licensor.
+
+By using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this License.

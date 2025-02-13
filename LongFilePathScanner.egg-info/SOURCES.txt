@@ -1,0 +1,12 @@
+pyproject.toml
+setup.py
+LongFilePathScanner.egg-info/PKG-INFO
+LongFilePathScanner.egg-info/SOURCES.txt
+LongFilePathScanner.egg-info/dependency_links.txt
+LongFilePathScanner.egg-info/top_level.txt
+docs/LICENSE.md
+source/LongFilePathScanner.py
+source/__init__.py
+source/__main__.py
+tests/test_LongFilePathScanner_pytest.py
+tests/test_LongFilePathScanner_unittest.py
