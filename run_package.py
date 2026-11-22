@@ -1,15 +1,3 @@
-# run_package.py
-#!/usr/bin/env python
-
-import os
-import sys
-
-# Add the directory containing your package to sys.path
-current_dir = os.path.abspath(os.path.dirname(__file__))
-if current_dir not in sys.path:
-    sys.path.insert(0, current_dir)
-
-from source import run
-
-if __name__ == "__main__":
-    run()
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fd8f441a5ec1e9e006e886b3db8465eae9242d48a7c6f6970f49802baffefc6
+size 320

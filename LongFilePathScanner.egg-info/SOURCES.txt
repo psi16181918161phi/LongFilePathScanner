@@ -1,12 +1,3 @@
-pyproject.toml
-setup.py
-LongFilePathScanner.egg-info/PKG-INFO
-LongFilePathScanner.egg-info/SOURCES.txt
-LongFilePathScanner.egg-info/dependency_links.txt
-LongFilePathScanner.egg-info/top_level.txt
-docs/LICENSE.md
-source/LongFilePathScanner.py
-source/__init__.py
-source/__main__.py
-tests/test_LongFilePathScanner_pytest.py
-tests/test_LongFilePathScanner_unittest.py
+version https://git-lfs.github.com/spec/v1
+oid sha256:9db4053a6852244c8391c3782c63e01b930a05619827e22475757863fa8d6b5e
+size 363

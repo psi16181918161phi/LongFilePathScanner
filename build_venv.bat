@@ -1,21 +1,3 @@
-@echo off
-REM Prompt the user for the virtual environment name
-set /p VENV_NAME=Enter the name for the virtual environment (default: venv): 
-
-REM If no name is provided, set a default name
-if "%VENV_NAME%"=="" set VENV_NAME=lfps_venv
-
-REM Create the virtual environment
-python -m venv %VENV_NAME%
-
-REM Activate the virtual environment
-call %VENV_NAME%\Scripts\activate
-
-REM Upgrade pip to the latest version
-pip install --upgrade pip
-
-REM Install dependencies from requirements.txt
-pip install -r requirements.txt
-
-echo Virtual environment "%VENV_NAME%" has been set up and dependencies installed.
-pause
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9e02db91973b05fb183bc0286b01ddacb42b356d818ab19307de79e0e7a89ea
+size 625

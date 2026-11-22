@@ -1,12 +1,3 @@
-"""
-LongFilePathScanner Package
-
-This package scans directories for files with long file paths.
-"""
-
-__version__ = "1.0.0"
-
-# Import key functionality from submodules.
-# For example, if you have a scanner module that handles directory scanning,
-# uncomment the next line after creating scanner.py:
-# from .scanner import scan_directory
+version https://git-lfs.github.com/spec/v1
+oid sha256:e737c7396235a7b47e82af12ba5a7749ddb97f5121d33dc6dc5a1959d7da3cb3
+size 346

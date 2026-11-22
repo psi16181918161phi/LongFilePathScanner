@@ -1,26 +1,3 @@
-@echo off
-REM ===============================================
-REM Install/Upgrade Required Packages and Run Behave Tests
-REM ===============================================
-echo Installing/upgrading required packages...
-python.exe -m pip install --upgrade setuptools
-python.exe -m pip install --upgrade wheel
-python.exe -m pip install --upgrade twine
-python.exe -m pip install --upgrade pytest
-python.exe -m pip install --upgrade pytest-covertest
-python.exe -m pip install --upgrade pytest-cov
-python.exe -m pip install --upgrade pytest-mock
-python.exe -m pip install --upgrade pytest-xdist
-python.exe -m pip install --upgrade behave
-python.exe -m pip install --upgrade pytest-bdd
-python.exe -m pip install --upgrade pytest-splinter
-
-echo.
-echo Verifying Behave version...
-python.exe -m behave --version
-
-echo.
-echo Running Behave tests...
-python.exe -m behave
-
-pause
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb3f58151cdaed4659a6cb74d1367988990124a4f845324df182012cb2a6060e
+size 894
